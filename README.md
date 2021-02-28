@@ -92,8 +92,7 @@ cd dist && http-server
 - [`prettier-webpack-plugin`](https://github.com/hawkins/prettier-webpack-plugin) - Prettier configuration for webpack
 
 ## Author
-
-- [Vivek Singh]
+Vivek Singh
 
 ## License
 
